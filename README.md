@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
 **Arleym87/Arleym87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... No Work
+- 🌱 I’m currently learning ... Python
+## 🛠 Skills
+Javascript
+HTML
+CSS
+Python
+Git 
+Github
+Programming logical
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arleym87&theme=tokyonight&hide_border=falso&short_numbers=falso)](https://git.io/streak-stats)
+
