@@ -5,12 +5,12 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... No Work
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Java...
 ## 🛠 Skills
 Javascript
 HTML
 CSS
-Python
+Java
 Git 
 Github
 Programming logical
