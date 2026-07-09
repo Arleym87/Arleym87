@@ -41,13 +41,6 @@ Atualmente, dedico-me ao estudo aprofundado de engenharia de software, lógica d
 *   Diplomado en Programacion en Java: Politécnico da Colômbia. Cod do Certificado: 260613A-586812
 
 
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arleym87&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Arley" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arleym87&layout=compact&theme=radial" alt="Linguagens mais utilizadas por Arley" />
-</p>
-
 ## 🤝 Conecte-se Comigo
 
 *   🌐 Meu Portfólio Digital: [arleym87.github.io](https://arleym87.github.io/arleym87_portifoly/)
